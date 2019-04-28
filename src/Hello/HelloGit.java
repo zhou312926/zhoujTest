@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("Hello git I am from IDEA. zhouj");
         System.out.println("2次更新 pull");
         System.out.println("3333333333333");
+        System.out.println("等待pull");
     }
 }
