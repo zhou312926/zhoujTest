@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("2次更新 pull");
         System.out.println("3333333333333");
         System.out.println("等待pull");
+        System.out.println("0428");
     }
 }
